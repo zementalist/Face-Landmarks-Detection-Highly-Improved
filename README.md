@@ -3,7 +3,9 @@
 > “What this algorithm does to the landmarks, is the same thing that a dentist/orthodontist does to his patient's teeth”
 
 <br>
-<img src="https://user-images.githubusercontent.com/50156227/140418778-f6c5dba1-abc6-475a-97ae-e49cb7686912.gif">
+<video src="https://user-images.githubusercontent.com/50156227/141507657-155285f7-096b-4818-9a63-a19075954969.mp4" autoplay muted loop></video>
+
+
 <br>
 <h3>What's improved?</h3>
 
