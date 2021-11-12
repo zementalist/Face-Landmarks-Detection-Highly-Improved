@@ -1,8 +1,8 @@
 # Full Face Landmarks Detection (Highly Improved)
 <a href="https://www.kaggle.com/zeyadkhalid/full-face-81-landmarks-detection-highly-improved" target="_blank">View on Kaggle</a>
 > “What this algorithm does to the landmarks, is the same thing that a dentist/orthodontist does to his patient's teeth”
-<video width="300" height="200" loop muted autoplay="autoplay"  src="https://user-images.githubusercontent.com/50156227/141507657-155285f7-096b-4818-9a63-a19075954969.mp4">
-</video>
+
+<img src="https://user-images.githubusercontent.com/50156227/140418778-f6c5dba1-abc6-475a-97ae-e49cb7686912.gif">
 <br>
 
 
